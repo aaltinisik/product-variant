@@ -18,62 +18,62 @@ msgstr ""
 #. module: product_variant_cost_price
 #: field:product.price.history.product,create_uid:0
 msgid "Created by"
-msgstr "Oluşturan"
+msgstr ""
 
 #. module: product_variant_cost_price
 #: field:product.price.history.product,create_date:0
 msgid "Created on"
-msgstr "Oluşturuldu"
+msgstr ""
 
 #. module: product_variant_cost_price
 #: field:product.price.history.product,display_name:0
 msgid "Display Name"
-msgstr "Görünen İsim"
+msgstr ""
 
 #. module: product_variant_cost_price
 #: field:product.price.history.product,datetime:0
 msgid "Historization Time"
-msgstr "Historization Time"
+msgstr ""
 
 #. module: product_variant_cost_price
 #: field:product.price.history.product,cost:0
 msgid "Historized Cost"
-msgstr "Historized Cost"
+msgstr ""
 
 #. module: product_variant_cost_price
 #: field:product.price.history.product,id:0
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: product_variant_cost_price
 #: field:product.price.history.product,__last_update:0
 msgid "Last Modified on"
-msgstr "Son değişiklik"
+msgstr ""
 
 #. module: product_variant_cost_price
 #: field:product.price.history.product,write_uid:0
 msgid "Last Updated by"
-msgstr "Son güncelleyen"
+msgstr ""
 
 #. module: product_variant_cost_price
 #: field:product.price.history.product,write_date:0
 msgid "Last Updated on"
-msgstr "Son güncelleme"
+msgstr ""
 
 #. module: product_variant_cost_price
 #: model:ir.model,name:product_variant_cost_price.model_product_product
 #: field:product.price.history.product,product_id:0
 msgid "Product"
-msgstr "Ürün"
+msgstr ""
 
 #. module: product_variant_cost_price
 #: model:ir.model,name:product_variant_cost_price.model_product_template
 #: field:product.price.history.product,product_template_id:0
 msgid "Product Template"
-msgstr "Ürün Şablonu"
+msgstr ""
 
 #. module: product_variant_cost_price
 #: field:product.price.history.product,company_id:0
 msgid "unknown"
-msgstr "bilinmeyen"
+msgstr ""
 

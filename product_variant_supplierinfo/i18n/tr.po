@@ -21,12 +21,12 @@ msgstr ""
 #. module: product_variant_supplierinfo
 #: model:ir.model,name:product_variant_supplierinfo.model_product_supplierinfo
 msgid "Information about a product supplier"
-msgstr ""
+msgstr "Ürün tedarikçisi hakkında bilgi"
 
 #. module: product_variant_supplierinfo
 #: model:ir.model,name:product_variant_supplierinfo.model_procurement_order
 msgid "Procurement"
-msgstr ""
+msgstr "Satınalma"
 
 #. module: product_variant_supplierinfo
 #: model:ir.model,name:product_variant_supplierinfo.model_product_product
@@ -36,35 +36,35 @@ msgstr "Ürün"
 #. module: product_variant_supplierinfo
 #: field:product.supplierinfo,product_id:0
 msgid "Product variant"
-msgstr ""
+msgstr "Ürün Çeşidi"
 
 #. module: product_variant_supplierinfo
 #: view:product.product:product_variant_supplierinfo.product_normal_form_view_sellers
 msgid "Suppliers"
-msgstr ""
+msgstr "Tedarikçiler"
 
 #. module: product_variant_supplierinfo
 #: view:product.product:product_variant_supplierinfo.product_normal_form_view_sellers
 msgid "Template Suppliers"
-msgstr ""
+msgstr "Şablon Tedarikçiler"
 
 #. module: product_variant_supplierinfo
 #: field:product.product,tmpl_seller_ids:0
 msgid "Tmpl seller ids"
-msgstr ""
+msgstr "Tmpl satıcı idleri"
 
 #. module: product_variant_supplierinfo
 #: view:product.product:product_variant_supplierinfo.product_normal_form_view_sellers
 msgid "Variant Suppliers"
-msgstr ""
+msgstr "Çeşit Tedarikçileri"
 
 #. module: product_variant_supplierinfo
 #: field:product.product,variant_seller_ids:0
 msgid "Variant seller ids"
-msgstr ""
+msgstr "Çeşit satıcı idleri"
 
 #. module: product_variant_supplierinfo
 #: help:product.supplierinfo,product_id:0
 msgid ""
 "When this field is filled in, the vendor data will onlyapply to the variant."
-msgstr ""
+msgstr "Bu alan doldurulduğunda tedarikçi verisi sadece bu çeşide uygulanacaktır."
